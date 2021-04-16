@@ -1,0 +1,22 @@
+{
+	"id": "c88d4bc6-b5de-fbd0-e4b6-db47bca32ac8",
+	"name": "Get_Method_Positive_TC",
+	"description": "# Introduction\nWhat does your API do?\n\n# Overview\nThings that the developers should know about\n\n# Authentication\nWhat is the preferred way of using the API?\n\n# Error Codes\nWhat errors and status codes can a user expect?\n\n# Rate limit\nIs there a limit to the number of requests an user can send?",
+	"order": [
+		"919b4d41-f835-44e6-2b75-2941947ef1ef"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1618555071152,
+	"owner": "15366452",
+	"public": false,
+	"requests": [
+		{
+			"id": "919b4d41-f835-44e6-2b75-2941947ef1ef",
+			"url": "https://reqres.in/api/users/2",
+			"method": "GET",
+			"collectionId": "c88d4bc6-b5de-fbd0-e4b6-db47bca32ac8",
+			"name": "https://reqres.in/api/users/2"
+		}
+	]
+}
